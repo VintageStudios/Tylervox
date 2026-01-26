@@ -1,0 +1,53 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#button_52599920 { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:88px; height:40px; background-color:#0080FF; background: linear-gradient(to bottom,#0080FF, #003972 50%, #002C59 50%, #00203F); border: 2px solid #2F2759;  }
+#button_52599920:hover { background-color:#0000FF; background: linear-gradient(to bottom,#0000FF, #000072 50%, #000059 50%, #00003F); border-color:#000000;  }
+#button_52599920:hover span { color:#FFFFFF; }
+#button_f7f118f { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:88px; height:40px; background-color:#0080FF; background: linear-gradient(to bottom,#0080FF, #003972 50%, #002C59 50%, #00203F); border: 2px solid #595959;  }
+#button_f7f118f:hover { background-color:#0000FF; background: linear-gradient(to bottom,#0000FF, #000072 50%, #000059 50%, #00003F); border-color:#000000;  }
+#button_f7f118f:hover span { color:#FFFFFF; }
+#button_153d0912 { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:88px; height:40px; background-color:#0080FF; background: linear-gradient(to bottom,#0080FF, #003972 50%, #002C59 50%, #00203F); border: 2px solid #595959;  }
+#button_153d0912:hover { background-color:#0000FF; background: linear-gradient(to bottom,#0000FF, #000072 50%, #000059 50%, #00003F); border-color:#000000;  }
+#button_153d0912:hover span { color:#FFFFFF; }
+#button_694ba68e { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:88px; height:40px; background-color:#00FF00; background: linear-gradient(to bottom,#00FF00, #007200 50%, #005900 50%, #003F00); border: 2px solid #595959;  }
+#button_694ba68e:hover { background-color:#008000; background: linear-gradient(to bottom,#008000, #003900 50%, #002C00 50%, #002000); border-color:#000000;  }
+#button_694ba68e:hover span { color:#FFFFFF; }
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+#container_5bd5f3a7 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:100px; background-color:#F55200; background: linear-gradient(to bottom, #FF8040, #F55200);  }
+#container_5bd5f3a7_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:left; }
+#container_14bc39df { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:100px; max-width:100px; background:none;  }
+#img_6f37d553 { vertical-align: top; position:relative; display: inline-block; width:113%; min-width:100px; max-width:100px; background:none; height:auto;  }
+#container_4e5243f6 { vertical-align: top; position:relative; display: inline-block; width:74%; min-height:100px; max-width:1100px; background:none;  }
+#container_4e5243f6_padding { margin: 10px; display: block;  }
+#container_6cb933aa { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:80px; background:none;  }
+#container_6cb933aa_padding { margin: 10px; display: block;  }
+#heading_6eeb7bf3 { vertical-align: bottom; position:relative; display: inline-block; width:186px; background:none; font-size:28pt; font-family:'Arial Black', Gadget, sans-serif; color:#FFFFFF; text-align:left; font-weight:bold;  }
+#container_5cfc6b95 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:82%; min-height:60px; max-width:1100px; background-color:#FFFFFF; border: 1px solid #404040;  }
+#container_5cfc6b95_padding { margin: 10px; display: block;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF;  }
+#button_7d022765 { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:88px; height:40px; background-color:#CECECE; background: linear-gradient(to bottom,#CECECE, #5C5C5C 50%, #484848 50%, #333333); border: 2px solid #2F2759;  }
+#button_53fe67b0 { box-sizing: border-box; vertical-align: bottom; border-radius: 9px; position:relative; display: inline-block; width:88px; height:40px; background-color:#CECECE; background: linear-gradient(to bottom,#CECECE, #5C5C5C 50%, #484848 50%, #333333); border: 2px solid #595959;  }
+#container_4458f57e { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:100px; max-width:281px; background:none; border: 1px solid #404040;  }
+#container_4458f57e_padding { margin: 10px; display: block;  }
+#heading_ca04df8 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#0080FF; text-align:left; font-style:italic;  }
+#heading_40121cb5 { vertical-align: bottom; position:relative; display: inline-block; background:none;  }
+.textstyle4 { text-align:left;display: block }
+.textstyle5 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#00FF00;  }
+.textstyle6 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#F55200;  }
+#heading_80e4e6e { vertical-align: bottom; position:relative; display: inline-block; width:125px; background:none; font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#5D5D9E; text-align:center; text-decoration:underline;  }
+#container_2460ed6e { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:176px; background-color:#F55403;  }
+#container_2460ed6e_padding { margin: 10px; display: block;  }
+#container_7f1820a4 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#FFFFFF;  }
+#shapedivider_7bdd784 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#shapedivider_7bdd784_padding { margin: 0; display: block; position: relative;  }
+#container_bfe3b85 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#F55403;  }
+#container_bfe3b85_padding { margin: 10px; display: block;  }
+#container_571b4c88 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_571b4c88_padding { margin: 10px; display: block;  }
