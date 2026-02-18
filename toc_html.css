@@ -1,0 +1,51 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#menu_67ff2894 a { text-decoration: none; }
+#menu_67ff2894_pane { background-color: #8080FF; border: 1px solid #EF00EF; padding-top: 10px; padding-bottom: 10px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+#menu_67ff2894_hr { background-color: #EF00EF; height: 1px; border: none; }
+#menu_67ff2894_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
+#menu_67ff2894_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+#menu_67ff2894_entry:hover span { color:#FFFFFF !important; }
+		.menu_67ff2894_mainMenuEntry { text-align: center; }
+		.menu_67ff2894_mainMenuEntry:hover {	background-color:#FF80FF; }
+		.menu_67ff2894_mainMenuEntry:hover span {	color:#FFFFFF !important; }
+		#menu_67ff2894 .mobileEntry { display: none; } 
+		#menu_67ff2894 .normalEntry { display: block; } 
+		@media only screen and (max-width:600px) { 
+			#menu_67ff2894 .mobileEntry { display: block; } 
+			#menu_67ff2894 .normalEntry { display: none; } 
+		}
+#table_597592f2 th { border: 1px solid #8C8C8C;  } 
+#table_597592f2 td { border: 1px solid #8C8C8C;  } 
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#menu_67ff2894 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:38px; text-align:left; background-color:#FF00FF; background: linear-gradient(to bottom, #C02FC0, #FF00FF); border: 1px solid #A0A0A0;  }
+.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
+.menustyle1 { position:absolute; width:38px; height:38px; left:10px;  }
+.menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:34px;  }
+.textstyle2 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.menustyle2 { position:absolute; width:61px; height:38px; left:10px;  }
+.menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:18px;  }
+.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+#container_3b77e554 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#AD00D8; background: linear-gradient(to bottom, #E586FC, #AD00D8);  }
+#container_3b77e554_padding { margin: 10px; display: block;  }
+#container_2e184021 { vertical-align: top; position:relative; display: inline-block; width:6%; min-height:60px; max-width:60px; background:none;  }
+.textstyle4 { text-align:center; }
+#img_66e929c9 { vertical-align: bottom; position:relative; display: inline-block; width:50%; min-width:55px; max-width:55px; background:none; height:auto;  }
+#heading_7e822e07 { vertical-align: bottom; position:relative; display: inline-block; background:none;  }
+.textstyle5 { text-align:center;display: block }
+.textstyle6 { font-size:32pt; font-family:Superclarendon, 'Bookman Old Style', 'URW Bookman', 'URW Bookman L', 'Georgia Pro', Georgia, serif; color:#0000FF;  }
+.textstyle7 { font-size:18pt; font-family:Superclarendon, 'Bookman Old Style', 'URW Bookman', 'URW Bookman L', 'Georgia Pro', Georgia, serif; color:#0000FF;  }
+#container_6d47fbf1 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_6d47fbf1_padding { margin: 10px; display: block;  }
+#container_1d02c053 { box-sizing: border-box; vertical-align: top; border-radius: 15px; position:relative; display: inline-block; width:100%; min-height:600px; max-width:400px; background-color:#FFFFFF; background: linear-gradient(to bottom, #EEEEEE, #FFFFFF); border: 1px solid #000000;  }
+#container_1d02c053_padding { margin: 10px; display: block;  }
+#table_597592f2 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-table; width:79%; height:31px; min-width:100px; max-width:500px; background:none; border: 1px solid #8C8C8C; table-layout: fixed;  }
+#cell_552d7807 {  }
+.textstyle8 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#cell_3fd19a42 {  }
+#cell_3148d828 {  }
+#cell_6f123cbb {  }
