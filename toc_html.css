@@ -32,18 +32,19 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .menustyle2 { position:absolute; width:61px; height:38px; left:10px;  }
 .menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:18px;  }
 .textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.menustyle3 { position:absolute; width:141px; height:38px; left:71px;  }
 #container_3b77e554 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#AD00D8; background: linear-gradient(to bottom, #E586FC, #AD00D8);  }
 #container_3b77e554_padding { margin: 10px; display: block;  }
 #container_2e184021 { vertical-align: top; position:relative; display: inline-block; width:6%; min-height:60px; max-width:60px; background:none;  }
 .textstyle4 { text-align:center; }
-#img_66e929c9 { vertical-align: bottom; position:relative; display: inline-block; width:50%; min-width:55px; max-width:55px; background:none; height:auto;  }
+#img_66e929c9 { vertical-align: bottom; position:relative; display: inline-block; width:72%; min-width:55px; max-width:55px; background:none; height:auto;  }
 #heading_7e822e07 { vertical-align: bottom; position:relative; display: inline-block; background:none;  }
 .textstyle5 { text-align:center;display: block }
 .textstyle6 { font-size:32pt; font-family:Superclarendon, 'Bookman Old Style', 'URW Bookman', 'URW Bookman L', 'Georgia Pro', Georgia, serif; color:#0000FF;  }
 .textstyle7 { font-size:18pt; font-family:Superclarendon, 'Bookman Old Style', 'URW Bookman', 'URW Bookman L', 'Georgia Pro', Georgia, serif; color:#0000FF;  }
 #container_6d47fbf1 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
 #container_6d47fbf1_padding { margin: 10px; display: block;  }
-#container_1d02c053 { box-sizing: border-box; vertical-align: top; border-radius: 15px; position:relative; display: inline-block; width:100%; min-height:600px; max-width:400px; background-color:#FFFFFF; background: linear-gradient(to bottom, #EEEEEE, #FFFFFF); border: 3px solid #000000;  }
+#container_1d02c053 { box-sizing: border-box; vertical-align: top; border-radius: 15px; position:relative; display: inline-block; width:100%; min-height:600px; max-width:400px; background-color:#FFFFFF; background: linear-gradient(to bottom, #EEEEEE, #FFFFFF); border: 1px solid #000000;  }
 #container_1d02c053_padding { margin: 10px; display: block;  }
 #table_597592f2 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-table; width:79%; height:31px; min-width:100px; max-width:500px; background:none; border: 1px solid #8C8C8C; table-layout: fixed;  }
 #cell_552d7807 {  }
@@ -60,3 +61,9 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 #cell_19a214ce {  }
 #container_4466483b { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:1px; max-width:400px; background:none;  }
 #container_4466483b_padding { margin: 10px; display: block;  }
+#container_31fc9f08 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:71px; background:none;  }
+#container_31fc9f08_padding { margin: 10px; display: block;  }
+#button_29c6944a { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:187px; height:40px; background-color:#0080FF; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle9 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#0000A0;  }
